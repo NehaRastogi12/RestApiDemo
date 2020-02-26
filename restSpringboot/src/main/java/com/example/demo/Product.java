@@ -1,6 +1,7 @@
 package com.example.demo;
 
 public class Product {
+	
 	private int productId=0;
 	private 	int price=0;
 	private String benefits="";
